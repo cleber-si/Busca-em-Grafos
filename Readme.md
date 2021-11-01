@@ -1,3 +1,3 @@
 # Algoritmos de Buscas Inteligêntes em Grafos
 
-Instruções em breve!
+Projeto em desenvolvimento. Instruções em breve!
